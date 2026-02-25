@@ -1,5 +1,5 @@
 # IoT-SMART-Manufacturing-Projects
-This repository contains past project IoT SMART Manufacturing
+This repository contains past project of IoT SMART Manufacturing
 
 ## Predictive Maintenance IoT System
 Wokwi Simulation + Node-Red Dashboard + MQTT Notifications
