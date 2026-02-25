@@ -13,4 +13,4 @@ This repository contains past project IoT SMART Manufacturing
     - MQTT protocol for data communication
     - MQTTx for notification monitoring
 
-    The goal of this project is to simulate how industrial equipment can be monitored in real time to prevent over heating, excessive humidity exposure, and              potential system failures.
+    The goal of this project is to simulate how industrial equipment can be monitored in real-time to prevent overheating, excessive humidity exposure, and potential system failures.
