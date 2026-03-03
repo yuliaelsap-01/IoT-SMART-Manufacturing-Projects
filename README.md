@@ -4,16 +4,8 @@ This repository contains past project of IoT SMART Manufacturing
 ## Predictive Maintenance IoT System
 Wokwi Simulation + Node-Red Dashboard + MQTT Notifications
 
-## 🔧 Node-RED Flow Import Guide
-
-1. Download `iot-monitoring-flow.json`
-2. Open Node-RED
-3. Click ☰ → Import
-4. Select the file
-5. Click Deploy
-
-The dashboard will appear at:
-http://localhost:1880/ui
+<iframe src="https://flows.nodered.org/flow/bf3550d8be3dcdb864857775bef3aac8"
+width="100%" height="800"></iframe>
 
 ### Project Overview
 
