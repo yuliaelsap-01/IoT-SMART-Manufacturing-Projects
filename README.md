@@ -46,4 +46,23 @@ When the conditions are met :
 
 This logic simulates early detection of environmental risks that could damage industrial equipment.
 
-### 
+### Dashboard Preview
+The Node-Red dashboard includes:
+- Temperature Gauge
+- Humidity Gauge
+- Real-time chart
+![DHT22-Node Red Dashboard](https://github.com/user-attachments/assets/7c71144f-e675-48e6-acf7-0e142f1a2744)
+
+### Project Objectives
+- Demonstrate IoT-based predictive maintenance concept
+- Practice MQTT publish/subscribe architecture
+- Implement real-time dashboard monitoring
+- Simulate industrial monitoring environment
+
+### Future Improvements
+- Add machine learning anomaly detection
+- Store historical data in database (MySQL)
+- Add telegram or Email alert integration
+
+
+
