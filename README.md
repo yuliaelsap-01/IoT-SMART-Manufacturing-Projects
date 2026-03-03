@@ -4,8 +4,7 @@ This repository contains past project of IoT SMART Manufacturing
 ## Predictive Maintenance IoT System
 Wokwi Simulation + Node-Red Dashboard + MQTT Notifications
 
-<iframe src="https://flows.nodered.org/flow/bf3550d8be3dcdb864857775bef3aac8"
-width="100%" height="800"></iframe>
+https://flows.nodered.org/flow/your-id
 
 ### Project Overview
 
