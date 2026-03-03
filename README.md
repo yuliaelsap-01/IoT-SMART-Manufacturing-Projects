@@ -51,6 +51,8 @@ The Node-Red dashboard includes:
 - Temperature Gauge
 - Humidity Gauge
 - Real-time chart
+
+
 ![DHT22-Node Red Dashboard](https://github.com/user-attachments/assets/7c71144f-e675-48e6-acf7-0e142f1a2744)
 
 ### Project Objectives
